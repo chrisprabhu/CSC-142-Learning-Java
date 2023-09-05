@@ -120,15 +120,10 @@ public class Pizza
     {
         // put your code here
         double diameter, area;
-        if (size == PizzaSize.SMALL) {
-            diameter = SMALL_DIAM;
-        } else if (size == PizzaSize.MEDIUM) {
-            diameter = MEDIUM_DIAM;
-        }  else if (size == PizzaSize.LARGE) {
-            diameter = LARGE_DIAM;
-        } else {
-            diameter = XL_DIAM;
-        }
+        if (size == PizzaSize.SMALL)        diameter = SMALL_DIAM;
+        else if (size == PizzaSize.MEDIUM)  diameter = MEDIUM_DIAM;
+        else if (size == PizzaSize.LARGE)   diameter = LARGE_DIAM;
+        else                                diameter = XL_DIAM;
         
         return Math.pow(diameter / 2.0, 2) * 3.14;
         
