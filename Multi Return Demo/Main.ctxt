@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=firstInt\ secondInt
+comment2.target=IntMathReturn\ intMath(int,\ int)
+comment3.params=firstInt\ secondInt
+comment3.target=int\ intMult(int,\ int)
+numComments=4
