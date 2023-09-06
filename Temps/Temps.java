@@ -88,7 +88,8 @@ public class Temps {
         // catch (IllegalArgumentException) {
             // // expected behavior!
         // }
+        System.out.println("Conversion tests ending");
     }
 
-    System.out.println("Conversion tests ending");
+    
 }
