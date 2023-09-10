@@ -1,0 +1,6 @@
+5
+123.45      34      Johnny Quest Adams
+234.56      48      Tomasina Jefferson
+1345.67     52      Geo Washingtone
+45.78       73      Been Jammin Franklin
+-5.9        29      Juan Hancott
