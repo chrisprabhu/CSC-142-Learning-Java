@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Main\ here.\r\n\r\n\ @author\ Chris\ Prabhu\r\n\ @version\ 2023-09-10\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=statusArray\ month\ day\ status
+comment2.target=void\ setBooking(Status[][],\ int,\ int,\ Status)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ \ statusArray\ \ \ \ \ the\ two-dimensional\ status\ array\ containing\ bookings\ \ \r\n\ @param\ \ \ month\ \ \ \ \ \ \ \ \ \ \ the\ month\ of\ the\ booking\r\n\ @param\ \ \ day\ \ \ \ \ \ \ \ \ \ \ \ \ the\ day\ of\ the\ booking\r\n\ @param\ \ \ status\ \ \ \ \ \ \ \ \ \ the\ Status\ to\ set\ to\ the\ booking\r\n\ @throws\ \ IllegalArgumentException\ if\ the\ day\ or\ month\ is\ out\ of\ range\r\n
+comment3.params=statusArray\ month\ day
+comment3.target=Status\ checkBooking(Status[][],\ int,\ int)
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ \ statusArray\ \ \ \ \ the\ two-dimensional\ status\ array\ containing\ bookings\ \ \r\n\ @param\ \ \ month\ \ \ \ \ \ \ \ \ \ \ the\ month\ of\ the\ booking\r\n\ @param\ \ \ day\ \ \ \ \ \ \ \ \ \ \ \ \ the\ day\ of\ the\ booking\r\n\ @param\ \ \ status\ \ \ \ \ \ \ \ \ \ the\ Status\ to\ set\ to\ the\ booking\r\n\ @throws\ \ IllegalArgumentException\ if\ the\ day\ or\ month\ is\ out\ of\ range\r\n
+comment4.params=statusArray\ year
+comment4.target=void\ setNaDays(Status[][],\ int)
+comment4.text=\r\n\ Sets\ to\ NA\ all\ days\ that\ aren't\ real\ calendar\ days\r\n\r\n\ @param\ \ statusArray\ \ the\ two-dimensional\ array\ containing\ bookings\r\n\ @return\ \ \ \ \ \ year\ \ \ \ the\ year\ for\ bookings\ (important\ for\ leap\ year\ considerations)\r\n
+numComments=5
