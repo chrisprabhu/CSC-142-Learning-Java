@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=name\ email
+comment1.target=Person(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEmail()
+comment3.params=id
+comment3.target=boolean\ validId(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getId()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=id
+comment6.target=void\ setId(java.lang.String)
+numComments=7
