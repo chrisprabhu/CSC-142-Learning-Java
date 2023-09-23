@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Staff
+comment1.params=name\ email
+comment1.target=Staff(java.lang.String,\ java.lang.String)
+comment2.params=id
+comment2.target=boolean\ validId(java.lang.String)
+numComments=3

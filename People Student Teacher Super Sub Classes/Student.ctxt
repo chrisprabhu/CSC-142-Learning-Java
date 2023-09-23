@@ -2,4 +2,16 @@
 comment0.target=Student
 comment1.params=name\ email
 comment1.target=Student(java.lang.String,\ java.lang.String)
-numComments=2
+comment2.params=courseName\ courseGrade
+comment2.target=void\ recordCourseCompletion(java.lang.String,\ double)
+comment3.params=
+comment3.target=double\ getAverageGrade()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=name
+comment5.target=boolean\ validId(java.lang.String)
+comment6.params=file
+comment6.target=boolean\ readFile(java.io.File)
+comment7.params=file
+comment7.target=boolean\ writeFile(java.io.File)
+numComments=8
